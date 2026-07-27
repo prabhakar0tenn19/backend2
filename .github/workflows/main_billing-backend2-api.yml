@@ -52,4 +52,4 @@ jobs:
           app-name: 'billing-backend2-api'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41374FDEB49643FD984C9D63315B27F7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FFF5BA5187B24629963BCD2554B92715 }}
